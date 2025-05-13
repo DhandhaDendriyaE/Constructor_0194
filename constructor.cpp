@@ -5,7 +5,6 @@ class mahasiswa{
 public:
 mahasiswa();//constructor
 };
-
 mahasiswa::mahasiswa(){
     cout<<"Contructor Terpanggil"<<endl; //definisi Constructor
 }
